@@ -5,3 +5,5 @@ requests==2.31.0
 groq==0.4.2
 python-dotenv==1.0.0
 
+groq==0.4.1  
+httpx==0.27.2
