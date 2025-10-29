@@ -74,4 +74,4 @@ User Query → Query Analysis → API Fetch → AI Generation → Answer + Citat
 Priyanka - Built for data-driven agricultural insights
 
 ---
-**Powered by data.gov.in APIs | Built with ❤️**
+**Powered by data.gov.in APIs | Built with**
