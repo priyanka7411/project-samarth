@@ -1,6 +1,9 @@
 import streamlit as st
 from ai_system import IntelligentQASystem
 import time
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Page config
 st.set_page_config(
