@@ -1,7 +1,11 @@
-.env
-venv/
 __pycache__/
 *.pyc
+*.pkl
+*.csv
+*.xlsx
+.env
+.env.*
+data/
 .DS_Store
-*.log
-.streamlit/secrets.toml
+.vscode/
+.ipynb_checkpoints/
