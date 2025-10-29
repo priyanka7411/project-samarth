@@ -78,7 +78,7 @@ Try asking:
    - Streamlit-based UI
    - Query history management
    - Real-time analysis display
-   
+
 ```
 ┌─────────────────┐
 │   User Query    │
@@ -156,7 +156,7 @@ project-samarth/
 ## 🎬 Links
 
 - **📹 Demo Video**: [Loom Recording](https://www.loom.com/share/96c8455fcc5b4af5af186af3423eeb66)
-- **💻 Live Demo**: [Streamlit App](#) *(Add after deployment)*
+- **💻 Live Demo**: [Streamlit App](https://project-samarth-4afuyehhy26rrxkhtacza4.streamlit.app/)
 - **📂 GitHub Repo**: [priyanka7411/project-samarth](https://github.com/priyanka7411/project-samarth)
 
 ## 📝 Evaluation Highlights
