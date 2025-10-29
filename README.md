@@ -67,11 +67,64 @@ User Query → Query Analysis → API Fetch → AI Generation → Answer + Citat
 - **Source citations**: Every answer includes data.gov.in API references
 - **Modular architecture**: Easy to add new data sources
 
+## 🚧 Known Limitations
+
+1. **Data Coverage**:
+   - Crop data: 1997-2014 only
+   - Rainfall data: 2018-present only
+   - Gap between datasets (2015-2017)
+
+2. **Performance**:
+   - Large queries (>10K records) may be slow
+   - Sequential API calls (no parallelization)
+
+3. **Query Understanding**:
+   - Limited to predefined crop and state lists
+   - May not handle very complex multi-part questions
+
+4. **API Dependencies**:
+   - Relies on data.gov.in availability
+   - Subject to API rate limits
+
 ## 🎥 Demo Video
 [Watch 2-minute demo](https://www.loom.com/share/96c8455fcc5b4af5af186af3423eeb66)
+
+## 🔮 Future Enhancements
+
+- [ ] Add more data sources (soil quality, irrigation, market prices)
+- [ ] Implement caching for faster repeat queries
+- [ ] Add data visualization (charts, maps)
+- [ ] Support regional language queries (Hindi, Tamil, etc.)
+- [ ] Parallel API fetching for better performance
+- [ ] Export answers as PDF reports
+- [ ] Add user authentication for enterprise deployment
+
+## 🤝 Contributing
+
+This project was built as part of a technical challenge. Contributions, suggestions, and feedback are welcome!
+
+## 🙏 Acknowledgments
+
+- **Ministry of Agriculture & Farmers Welfare** - Crop production data
+- **India Meteorological Department (IMD)** - Rainfall and climate data
+- **data.gov.in** - Open data platform and APIs
+- **Groq** - Free LLM API access
+- **Streamlit** - Web framework  
 
 ## 👩‍💻 Author
 Priyanka - Built for data-driven agricultural insights
 
+## 📄 License
+
+This project was built as part of a technical challenge submission. Feel free to use for educational purposes.
+
 ---
-**Powered by data.gov.in APIs | Built with**
+<div align="center">
+
+**🌾 Built with ❤️ for data-driven agricultural insights**
+
+**Powered by data.gov.in APIs | Made in India 🇮🇳**
+
+[Watch Demo](https://www.loom.com/share/96c8455fcc5b4af5af186af3423eeb66) • [View Code](https://github.com/priyanka7411/project-samarth) • [Try Live](#)
+
+</div>
