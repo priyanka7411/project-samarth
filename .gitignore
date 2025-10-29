@@ -10,3 +10,4 @@ data/
 .vscode/
 .ipynb_checkpoints/
 venv/
+.streamlit/secrets.toml
