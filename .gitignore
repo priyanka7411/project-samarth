@@ -11,3 +11,16 @@ data/
 .ipynb_checkpoints/
 venv/
 .streamlit/secrets.toml
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local IDE / system
+.vscode/
+.DS_Store
